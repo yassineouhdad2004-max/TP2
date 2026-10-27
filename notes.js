@@ -1,4 +1,3 @@
-console.log('TP2 : gestion des notes');
 const etudiants = [
    { id: 1, nom: 'Amine', note: 16 },
    {id: 2, nom: 'Youssef', note: 8 },
